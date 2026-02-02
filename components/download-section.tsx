@@ -66,7 +66,7 @@ export function DownloadSection() {
             {/* Download Buttons */}
             <div className="mb-12 flex flex-col sm:flex-row gap-6 justify-center items-center relative z-10">
               <a
-                href="https://expo.dev/artifacts/eas/7p8HPuEHjix7mr7UVVrAgR.apk"  // Path inside public folder
+                href="https://github.com/BryanJe1/MechaniCall-Webpage/releases/download/v1.0.0/MachaniCall.apk"  // Path inside public folder
                 download                 // This triggers download
                 className="group relative overflow-hidden w-full sm:w-auto inline-flex items-center justify-center gap-4 rounded-2xl bg-red-600 px-10 py-6 font-black text-white text-xl uppercase tracking-wide transition-all hover:bg-red-700 hover:shadow-2xl hover:scale-105 active:scale-95 border-4 border-red-700"
               >
