@@ -128,7 +128,7 @@ export function HeroSection() {
 
                 {/* Screen Content - Actual Screenshot */}
                 <Image
-                  src="/Welcome.jfif" // <--- Put your real screenshot here
+                  src="/Welcome.jpg" // <--- Put your real screenshot here
                   alt="MechaniCall App Screenshot"
                   fill
                   className="object-cover"

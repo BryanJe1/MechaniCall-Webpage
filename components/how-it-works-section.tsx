@@ -12,7 +12,7 @@ const steps = [
     title: 'SIGN UP & VERIFY',
     description: 'Create an account or sign in and verify your phone number to start using MechaniCall.',
     details: ['Fast sign-up process', 'Secure verification', 'Save your info for future requests'],
-    image: '/SignIn.jfif'
+    image: '/SignIn.jpg'
   },
   {
     number: '02',
@@ -20,7 +20,7 @@ const steps = [
     title: 'REQUEST SERVICE',
     description: 'Tap the "Request Service" button, select the service you need, and add any extra details.',
     details: ['Choose service type', 'Add photos or notes', 'Quick submission'],
-    image: '/Request.jfif'
+    image: '/Request.jpg'
   },
   {
     number: '03',
@@ -28,7 +28,7 @@ const steps = [
     title: 'MECHANIC SELECTION',
     description: 'Select a mechanic from a ranked list powered by AI matching based on location and skills.',
     details: ['Ranked by proximity and rating', 'Skill-based matching', 'Instant confirmation'],
-    image: '/Select.jfif'
+    image: '/Select.jpg'
   },
   {
     number: '04',
@@ -36,7 +36,7 @@ const steps = [
     title: 'WAIT FOR RESPONSE',
     description: 'Mechanics respond quickly. You will be notified when a mechanic accepts your request.',
     details: ['Instant notifications', 'Option to cancel', 'Track accepted request'],
-    image: '/Response.jfif'
+    image: '/Response.jpg'
   },
   {
     number: '05',
@@ -44,7 +44,7 @@ const steps = [
     title: 'GPS TRACKING',
     description: 'Track your mechanic in real-time on the map. Get ETA updates and route details.',
     details: ['Live GPS updates', 'Direct communication', 'Accurate ETA'],
-    image: '/Track.jfif'
+    image: '/Track.jpg'
   },
   {
     number: '06',
@@ -52,7 +52,7 @@ const steps = [
     title: 'RATE & FEEDBACK',
     description: 'Provide ratings and feedback to help the community and improve future services.',
     details: ['Rate mechanic', 'Leave detailed feedback', 'Contribute to quality assurance'],
-    image: '/Rate.jfif'
+    image: '/Rate.jpg'
   },
 ];
 
